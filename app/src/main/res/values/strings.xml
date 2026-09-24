@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FTA-Senior-Android</string>
+    <string name="copyright_heading">版权与开源</string>
+    <string name="copyright_notice">Copyright © 2026 kldhsh123\n作者：kldhsh123</string>
+    <string name="open_source_notice">本项目遵循 GNU General Public License v3.0（GPLv3）开源。你可以在遵守许可证条款的前提下使用、修改和分享代码。本软件不提供任何担保，完整条款请查看许可证。</string>
+    <string name="project_url" translatable="false">https://github.com/kldhsh123/FTA-Senior-Android</string>
+    <string name="view_source">查看项目源码（GitHub）</string>
+    <string name="view_license">查看 GPLv3 许可证</string>
+    <string name="accessibility_name">FTA 悬浮控制</string>
+    <string name="accessibility_description">识别当前应用并显示可自定义悬浮按钮。点击后通过你授权的 Shizuku 强停应用或清理后台。仅读取窗口所属应用，不收集页面文字、输入内容或截图。可随时在应用内关闭按钮，或在此处关闭服务。</string>
+</resources>

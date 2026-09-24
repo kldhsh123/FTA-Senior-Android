@@ -1,0 +1,2 @@
+# Loaded lazily by reflection on Android 9+ in SystemBinderAccess.
+-keep class org.lsposed.hiddenapibypass.HiddenApiBypass { public static boolean addHiddenApiExemptions(java.lang.String[]); }

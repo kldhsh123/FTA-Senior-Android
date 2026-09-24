@@ -1,0 +1,32 @@
+# Build outputs and local Android SDK configuration
+.gradle/
+**/build/
+/local.properties
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# IDE, OS and local agent state
+/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+/.agents/
+/.codex/
+
+# Local references, diagnostics and release artifacts
+/dev-p/
+/.downloads/
+/.local-checks/
+/build-log.txt
+/shizuku-log.txt
+*.log
+/release-artifacts/
+
+# Signing secrets
+*.jks
+*.keystore
+/keystore.properties
+/signing.properties
