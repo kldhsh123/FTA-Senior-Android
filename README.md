@@ -16,6 +16,10 @@
 
 清理不删除应用数据、不清缓存、不持续循环杀后台；不会显示未经测量的“释放内存”。强停可能造成未保存内容丢失，并中断通知、下载或其他后台任务，请将需要保留的应用加入白名单。
 
+<img width="720" height="1600" alt="Screenshot_2026-09-24-22-38-22-668_com fta senior" src="https://github.com/user-attachments/assets/0c97ea4b-d9fc-4eac-91d5-1683a8bc620c" />
+<img width="720" height="1600" alt="Screenshot_2026-09-24-22-38-25-659_com fta senior" src="https://github.com/user-attachments/assets/3d75c9ef-55e8-4619-8c88-b055ef36b736" />
+
+
 ## 安装与使用
 
 1. 安装并启动 [Shizuku](https://shizuku.rikka.app/zh-hans/download/)。非 root 设备可使用 ADB；Android 11+ 也可使用无线调试启动。
